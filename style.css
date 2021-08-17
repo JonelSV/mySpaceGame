@@ -1,0 +1,12 @@
+#alienCanvas {
+    border: 1px solid blueviolet;
+    margin: 0 auto;
+    display: block;
+    background-image: url(http://127.0.0.1:8887/bgEarth.jfif);
+    background-size: 100% 100%;
+}
+
+body {
+    background-image: url(http://127.0.0.1:8887/bgSpace2.jfif);
+    background-repeat: repeat;
+}
